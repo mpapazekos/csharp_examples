@@ -6,6 +6,7 @@ namespace bootcamp_21_11_2017
 {
     public static class Utilities
     {
+        
         public static void Swap(ref int a, ref int b)
         {
             int temp;

@@ -45,6 +45,7 @@ namespace bootcamp_21_11_2017
             List<string> newList2 = list2.SubSeq() ;
             Utilities.PrintList(newList2);
 
+            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
     }
